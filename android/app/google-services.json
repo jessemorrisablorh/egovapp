@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "759375322378",
+    "project_id": "e-governance-695aa",
+    "storage_bucket": "e-governance-695aa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759375322378:android:690ca1b9cfebbc3e6d2ef3",
+        "android_client_info": {
+          "package_name": "com.ev.egov.egov"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALnL25fZeHqC_P46AmaCrWQ81sD6MYyus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
